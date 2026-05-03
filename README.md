@@ -37,12 +37,6 @@ I leverage next-gen **LLM-supported** testing tools, manage mobile device farms,
 
 ---
 
-## 📽 Public Projects
-Currently sharing some productivity tools with the community:
-- **[ASA Screenshot & Recorder](https://github.com/altansayan/asa-screenshoter-recorder)** — A high-performance utility for rapid QA & Dev workflows.
-
----
-
 ## 📫 Let's Connect
 
 I am always open to new ideas, learning opportunities, and engaging networking. Feel free to reach out anytime!
