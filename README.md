@@ -10,7 +10,7 @@ I am a Developer-rooted **Quality Manager and Test Architect** with over 12 year
 
 I have extensive experience in digital banking and Fintech ecosystems (including **Payment Facilitator - PF** projects) and high-traffic portals. My expertise covers the end-to-end setup, management, and optimization of analysis and testing processes. 
 
-I leverage next-gen **LLM-supported** testing tools, manage mobile device farms, and conduct hardware-level mobile testing. I drive continuous improvement by managing quality and testing processes through rigorous analysis and planning, while measuring team performance via metrics such as **Bug Reopen Rate** and **Defect Leakage**.
+I leverage next-gen **Ai-Supported** testing tools, manage mobile device farms, and conduct hardware-level mobile testing. I drive continuous improvement by managing quality and testing processes through rigorous analysis and planning, while measuring team performance via metrics such as **Bug Reopen Rate** and **Defect Leakage**.
 
 > [!NOTE]
 > Since I primarily develop and deliver **specialized in-house solutions**, my GitHub repository may not fully reflect the breadth of my projects; my core strength lies in closed-circuit enterprise architectures. :)
